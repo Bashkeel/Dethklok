@@ -5,6 +5,22 @@
 
 ## [Skip to the Notebook](https://nbviewer.jupyter.org/github/Bashkeel/Dethklok/blob/master/The%20Growth%20of%20Death%20Metal.ipynb)
 
+<br>
+
+## Example Analyses
+#### 1. Examining the Subgenres of Metal
+![](Images/Genre%20Pie%20Chart.png)
+![](Images/Genre%20Explosions.png)
+
+#### 2. The Geography of Metal
+![](Images/Metal%20Map.png)
+
+#### 3. Lyrical Themes of Metal
+![](Images/Word%20Cloud.png)
+
+
+
+<br>
 
 ### Required Libraries
 * `pandas`
