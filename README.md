@@ -12,10 +12,13 @@
 ![](Images/Genre%20Pie%20Chart.png)
 ![](Images/Genre%20Explosions.png)
 
-#### 2. The Geography of Metal
+#### 2. Most Acclaimed Albums
+![](Images/Best%20Albums.png)
+
+#### 3. The Geography of Metal
 ![](Images/Metal%20Map.png)
 
-#### 3. Lyrical Themes of Metal
+#### 4. Lyrical Themes of Metal
 ![](Images/Word%20Cloud.png)
 
 
